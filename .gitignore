@@ -30,3 +30,8 @@
 
 # Debug files
 *.dSYM/
+.ninja_deps .ninja_log
+*.d
+.ninja_deps
+.ninja_log
+tests/tests
